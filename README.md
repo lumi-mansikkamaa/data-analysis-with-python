@@ -1,2 +1,1 @@
-# data-analysis-with-python
-Lab Works in Data Analysis with Python Course
+Lab Works in [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) Course
